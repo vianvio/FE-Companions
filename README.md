@@ -1,7 +1,7 @@
 # 前端同路人
 山虽高，我心已决要攀登， 路再难，绊不住我的脚跟； 因为我看到生命之路就在这里。  -- 《天路历程》
 
--
+--
 
 缘起这篇意料之外的 [热帖](https://segmentfault.com/a/1190000021761594?_ea=31612559)，我们大家聚到一起。    
 我们是在前端成长路上的同路人，只是闻道有先后，术业有专攻。    
@@ -23,7 +23,7 @@
 
 # 欢迎一起来参加这个活动
 可以加入我们的微信群，人比较多，可以添加下方小助手机器人的微信，回复 面试群，她会给你发送入群邀请。    
-![BOT](https://foo)
+![BOT](https://github.com/vianvio/FE-Companions/blob/master/assets/wx-bot.png)
 
 # 介绍下我和我在的团队
 我是阿里巴巴淘宝技术部-ihome业务的前端技术专家，花名磐冲。目前，ihome业务正在深耕家居家装行业，纵向深入行业内部，希望能给行业带来一些创新。目前可对外公开的产品和业务形态有：躺平App、位于青岛和宁波的桔至生活门店。我们还有更多有趣、充满挑战和超出你想象的业务。我们期待有志之士的加入！
@@ -35,4 +35,4 @@ java简历请发送到：xiaoxian.zzy@taobao.com 或 wuxin.sn@taobao.com
 主攻3d方向的同学，简历请发送到：jiangcheng.wxd@alibaba-inc.com    
 
 当然，也欢迎来单独来撩~    
-![BOT](https://foo)
+![SELF](https://github.com/vianvio/FE-Companions/blob/master/assets/wx-self.png)
