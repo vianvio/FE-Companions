@@ -35,9 +35,10 @@
 
 如果你愿意来和我们一起相信，那请发送简历过来，我们一定会一起看见！
 
-java简历请发送到：xiaoxian.zzy@taobao.com 或 wuxin.sn@taobao.com    
 前端简历请发送到：yefei.niuyf@alibaba-inc.com 或 lijie.slj@alibaba-inc.com    
 主攻3d方向的同学，简历请发送到：jiangcheng.wxd@alibaba-inc.com    
+java简历请发送到：xiaoxian.zzy@taobao.com 或 wuxin.sn@taobao.com    
+客户端简历请发送到：fangying.fy@alibaba-inc.com
 
 当然，也欢迎来单独来撩~    
 <img alt="my qr code" src="https://github.com/vianvio/FE-Companions/blob/master/assets/wx-self.png" width="200px" />
