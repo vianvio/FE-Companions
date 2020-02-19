@@ -19,8 +19,8 @@
 5. 这5位同学需要在一周之内，完成issue中的所有问题解答，并将答案回复在issue下方。
 6. 一周之后，我会在issue下方给出我的评价和建议。其他同学有想法和建议也可以共同答复，但是请参考上方的要求。
 
-# 欢迎一起来参加这个活动
-可以加入我们的微信群，人比较多，可以添加下方小助手机器人的微信，回复 <span style="color: #ff5e17;">面试群</span>，她会给你发送入群邀请。    
+# 欢迎一起来参加这个活动    
+需要加入我们的微信群，目前群里人比较多，可以添加下方小助手机器人的微信，回复 **面试群**，她会给你发送入群邀请。    
 <img alt="bot qr code" src="https://github.com/vianvio/FE-Companions/blob/master/assets/wx-bot.png" width="150px" />
 
 # 介绍下我和我在的团队
@@ -33,4 +33,4 @@ java简历请发送到：xiaoxian.zzy@taobao.com 或 wuxin.sn@taobao.com
 主攻3d方向的同学，简历请发送到：jiangcheng.wxd@alibaba-inc.com    
 
 当然，也欢迎来单独来撩~    
-<img alt="my qr code" src="https://github.com/vianvio/FE-Companions/blob/master/assets/wx-self.png" width="150px" />
+<img alt="my qr code" src="https://github.com/vianvio/FE-Companions/blob/master/assets/wx-self.png" width="200px" />
